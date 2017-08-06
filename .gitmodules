@@ -1,0 +1,3 @@
+[submodule "micro-rov-src"]
+	path = micro-rov-src
+	url = https://github.com/explorationlabs/micro-rov-src.git
